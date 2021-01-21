@@ -1,0 +1,16 @@
+{
+  "name": "Eternus Global Landing Page Checklist",
+  "short_name": "Checklist",
+  "start_url": ".",
+  "background_color": "#fff",
+  "theme_color": "#e4e4f2",
+  "description": "Landing Page Checklist",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ]
+}
