@@ -9,7 +9,7 @@
   "description": "Eternus Global Filterable Portfolio by Industry, Format, and Tags",
   "icons": [
     {
-      "src": "./img/logo.png",
+      "src": "./img/eternuslogo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
